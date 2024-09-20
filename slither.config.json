@@ -1,0 +1,4 @@
+{
+  "filter_paths": "node_modules,contracts/dependencies,contracts/misc",
+  "compile_force_framework": "hardhat"
+}

@@ -1,0 +1,1 @@
+# Embedded-Semi-Fungible-Token
